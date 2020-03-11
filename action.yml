@@ -1,0 +1,7 @@
+# action.yml
+name: 'Deucyber Pr Messanger'
+description: 'Send a message to telegram channel'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
